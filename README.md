@@ -25,7 +25,7 @@ Actualmente compagino mi trabajo con mis estudios en la **UnADM**.
 
 ### 📈 Estadísticas de GitHub
 [![Estadísticas de Alberto](https://github-readme-stats.vercel.app/api?username=Chaksite&show_icons=true&theme=radical)](https://github.com/Chaksite)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)](https://github.com/TU_USUARIO_AQUI)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaksite&layout=compact&theme=radical)](https://github.com/Chaksite)
 <!--
 ### 📫 Cómo contactarme:
 * **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-perfil)
